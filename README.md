@@ -29,7 +29,7 @@ can be configured through HOCON format that is used by Typesafe [config](https:/
 
 ## Usage
 Most important abstractions like *DomainView*, *AggregateRoot* and *AggregateRootActor* are documented through scala docs.
-Also it is a good idea to check out the tests and [sample project](here-be-address) for examples of code that use those abstractions.
+Also it is a good idea to check out the tests and [sample project](https://github.com/cqrs-endeavour/cqrs-framework-sample) for examples of code that use those abstractions.
 
 ## Caveats and possible improvements
 
